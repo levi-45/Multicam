@@ -1,0 +1,228 @@
+Satellite-Forum.Com
+
+levi45 Addons Panel UPDATE 26-08-2024
+-------------------------------------------------------------------------
+enigma2-plugin-softcams-oscam-emu-levi45_11819-802_all.ipk
+-------------------------------------------------------------------------
+
+levi45 Addons Panel UPDATE 23-08-2024
+-------------------------------------------------------------------------
+enigma2-plugin-softcams-oscam-emu-levi45_11818-802_all.ipk
+-------------------------------------------------------------------------
+enigma2-plugin-softcams-oscam-emu-levi45_11818-802_all.deb
+-------------------------------------------------------------------------
+
+levi45 Addons Panel UPDATE 30-06-2024
+-------------------------------------------------------------------------
+enigma2-plugin-softcams-oscam-emu-levi45_11794-802_all.ipk
+-------------------------------------------------------------------------
+enigma2-plugin-softcams-oscam-emu-levi45_11794-802_all.deb
+-------------------------------------------------------------------------
+
+levi45 Addons Panel UPDATE 07-06-2024
+-------------------------------------------------------------------------
+enigma2-plugin-softcams-oscam-emu-levi45_11790-801_all.ipk
+-------------------------------------------------------------------------
+enigma2-plugin-softcams-oscam-emu-levi45_11790-801_all.deb
+-------------------------------------------------------------------------
+
+levi45 Addons Panel UPDATE 29-05-2024
+-------------------------------------------------------------------------
+enigma2-plugin-softcams-oscam-icam-emu-py2_11788-801_all.ipk
+enigma2-plugin-softcams-oscam-icam-emu-py3.9_11788-801_all.ipk
+enigma2-plugin-softcams-oscam-icam-emu-py3.10_11788-801_all.ipk
+enigma2-plugin-softcams-oscam-icam-emu-py3.21_11788-801_all.ipk
+-------------------------------------------------------------------------
+enigma2-plugin-softcams-oscam-icam-emu-py2_11788-801_all.deb
+enigma2-plugin-softcams-oscam-icam-emu-py3.9_11788-801_all.deb
+enigma2-plugin-softcams-oscam-icam-emu-py3.10_11788-801_all.deb
+enigma2-plugin-softcams-oscam-icam-emu-py3.21_11788-801_all.deb
+-------------------------------------------------------------------------
+
+levi45 Addons Panel UPDATE 27-05-2024
+-------------------------------------------------------------------------
+enigma2-plugin-softcams-oscam-icam-emu-py2_11787-801_all.ipk
+enigma2-plugin-softcams-oscam-icam-emu-py3.9_11787-801_all.ipk
+enigma2-plugin-softcams-oscam-icam-emu-py3.10_11787-801_all.ipk
+enigma2-plugin-softcams-oscam-icam-emu-py3.21_11787-801_all.ipk
+-------------------------------------------------------------------------
+enigma2-plugin-softcams-oscam-icam-emu-py2_11787-801_all.deb
+enigma2-plugin-softcams-oscam-icam-emu-py3.9_11787-801_all.deb
+enigma2-plugin-softcams-oscam-icam-emu-py3.10_11787-801_all.deb
+enigma2-plugin-softcams-oscam-icam-emu-py3.21_11787-801_all.deb
+-------------------------------------------------------------------------
+
+levi45 Addons Panel UPDATE 24-05-2024
+-------------------------------------------------------------------------
+enigma2-plugin-softcams-oscam-icam-emu-py2_11786-801_all.ipk
+enigma2-plugin-softcams-oscam-icam-emu-py3.9_11786-801_all.ipk
+enigma2-plugin-softcams-oscam-icam-emu-py3.10_11786-801_all.ipk
+enigma2-plugin-softcams-oscam-icam-emu-py3.21_11786-801_all.ipk
+-------------------------------------------------------------------------
+enigma2-plugin-softcams-oscam-icam-emu-py2_11786-801_all.deb
+enigma2-plugin-softcams-oscam-icam-emu-py3.9_11786-801_all.deb
+enigma2-plugin-softcams-oscam-icam-emu-py3.10_11786-801_all.deb
+enigma2-plugin-softcams-oscam-icam-emu-py3.21_11786-801_all.deb
+-------------------------------------------------------------------------
+
+levi45 Addons Panel UPDATE 24-05-2024
+-------------------------------------------------------------------------
+enigma2-plugin-softcams-oscam-icam-emu-py2_11785-801_all.ipk
+enigma2-plugin-softcams-oscam-icam-emu-py3.9_11785-801_all.ipk
+enigma2-plugin-softcams-oscam-icam-emu-py3.10_11785-801_all.ipk
+enigma2-plugin-softcams-oscam-icam-emu-py3.21_11785-801_all.ipk
+-------------------------------------------------------------------------
+enigma2-plugin-softcams-oscam-icam-emu-py2_11785-801_all.deb
+enigma2-plugin-softcams-oscam-icam-emu-py3.9_11785-801_all.deb
+enigma2-plugin-softcams-oscam-icam-emu-py3.10_11785-801_all.deb
+enigma2-plugin-softcams-oscam-icam-emu-py3.21_11785-801_all.deb
+-------------------------------------------------------------------------
+
+levi45 Multicam Manager UPDATE 17-05-2024
+-------------------------------------------------------------------------
+enigma2-plugin-softcams-oscam-icam-emu-py2_11784_all.ipk
+enigma2-plugin-softcams-oscam-icam-emu-py3.9_11784_all.ipk
+enigma2-plugin-softcams-oscam-icam-emu-py3.10_11784_all.ipk
+enigma2-plugin-softcams-oscam-icam-emu-py3.21_11784_all.ipk
+-------------------------------------------------------------------------
+enigma2-plugin-softcams-oscam-icam-emu-py2_11784_all.deb
+enigma2-plugin-softcams-oscam-icam-emu-py3.9_11784_all.deb
+enigma2-plugin-softcams-oscam-icam-emu-py3.10_11784_all.deb
+enigma2-plugin-softcams-oscam-icam-emu-py3.21_11784_all.deb
+-------------------------------------------------------------------------
+
+levi45 Multicam Manager UPDATE 13-05-2024
+-------------------------------------------------------------------------
+enigma2-plugin-softcams-oscam-icam-py2_11782-emu-r801_all.ipk
+enigma2-plugin-softcams-oscam-icam-py3.9_11782-emu-r801_all.ipk
+enigma2-plugin-softcams-oscam-icam-py3.10_11782-emu-r801_all.ipk
+enigma2-plugin-softcams-oscam-icam-py3.21_11782-emu-r801_all.ipk
+-------------------------------------------------------------------------
+enigma2-plugin-softcams-oscam-icam-py2_11782-emu-r801_all.deb
+enigma2-plugin-softcams-oscam-icam-py3.9_11782-emu-r801_all.deb
+enigma2-plugin-softcams-oscam-icam-py3.10_11782-emu-r801_all.deb
+enigma2-plugin-softcams-oscam-icam-py3.21_11782-emu-r801_all.deb
+-------------------------------------------------------------------------
+
+levi45 Multicam Manager UPDATE 01-05-2024
+-------------------------------------------------------------------------
+Icam-Oscam-emu_117.78-arm and mips
+-------------------------------------------------------------------------
+
+levi45 Multicam Manager UPDATE 29-04-2024
+-------------------------------------------------------------------------
+Icam-Oscam-emu_117.77-arm and mips
+-------------------------------------------------------------------------
+movicam-arm and mips
+
+levi45 Multicam Manager UPDATE 07-03-2024
+-------------------------------------------------------------------------
+Icam-Oscam-emu_117.40-arm and mips
+-------------------------------------------------------------------------
+
+levi45 Multicam Manager UPDATE 06-03-2024
+-------------------------------------------------------------------------
+All keys updated
+-------------------------------------------------------------------------
+
+levi45 Multicam Manager UPDATE 02-03-2024
+-------------------------------------------------------------------------
+ncam-emu_14.4-arm and mips
+-------------------------------------------------------------------------
+Icam-Oscam-emu_117.34-arm and mips
+-------------------------------------------------------------------------
+All keys updated
+-------------------------------------------------------------------------
+
+levi45 Multicam Manager UPDATE 04-02-2024
+-------------------------------------------------------------------------
+Icam-Oscam-emu_117.27-arm and mips
+-------------------------------------------------------------------------
+All keys updated
+-------------------------------------------------------------------------
+
+levi45 Multicam Manager UPDATE 03-02-2024
+-------------------------------------------------------------------------
+
+levi45 Multicam Manager UPDATE 25-01-2024
+-------------------------------------------------------------------------
+
+levi45 Multicam Manager UPDATE 23-01-2024
+-------------------------------------------------------------------------
+
+levi45 Multicam Manager UPDATE 21-01-2024
+-------------------------------------------------------------------------
+All keys updated
+
+levi45 Multicam Manager UPDATE 13-01-2024
+-------------------------------------------------------------------------
+Oscam Icam 11731 updated for all
+All keys updated
+
+levi45 Multicam Manager UPDATE 05-01-2024
+-------------------------------------------------------------------------
+Oscam Icam 11730 updated for all
+All keys updated
+
+levi45 Multicam Manager UPDATE 01-01-2024
+-------------------------------------------------------------------------
+All keys updated
+
+levi45 Multicam Manager UPDATE 23-12-2023
+-------------------------------------------------------------------------
+All keys updated
+
+levi45 Multicam Manager UPDATE 21-12-2023
+-------------------------------------------------------------------------
+Icam-Oscam-emu_117.27-arm and mips
+-------------------------------------------------------------------------
+All keys updated
+
+levi45 Multicam Manager UPDATE 15-12-2023
+-------------------------------------------------------------------------
+
+levi45 Multicam Manager UPDATE 11-12-2023
+-------------------------------------------------------------------------
+
+levi45 Multicam Manager UPDATE 10-12-2023
+-------------------------------------------------------------------------
+All keys updated
+
+levi45 Multicam Manager UPDATE 07-12-2023
+-------------------------------------------------------------------------
+All keys updated
+
+levi45 Multicam Manager UPDATE 05-12-2023
+-------------------------------------------------------------------------
+All keys updated
+
+levi45 Multicam Manager UPDATE 02-12-2023
+-------------------------------------------------------------------------
+All keys updated
+
+levi45 Multicam Manager UPDATE 20-11-2023
+-------------------------------------------------------------------------
+All keys updated
+
+levi45 Multicam Manager UPDATE 18-11-2023
+-------------------------------------------------------------------------
+All keys updated
+
+levi45 Multicam Manager UPDATE 06-11-2023
+-------------------------------------------------------------------------
+All keys updated
+ncam-emu_14.2-arm and mips
+
+levi45 Multicam Manager UPDATE 25-10-2023
+-------------------------------------------------------------------------
+ncam-emu_14.1-arm and mips
+All keys updated
+-------------------------------------------------------------------------
+levi45 Multicam Manager UPDATE 15-10-2023
+-------------------------------------------------------------------------
+Ncam-emu_14.0-arm and mips
+All keys updated
+-------------------------------------------------------------------------
+levi45 Multicam Manager UPDATE 14-10-2023
+-------------------------------------------------------------------------
+All keys updated
