@@ -1,5 +1,11 @@
 Satellite-Forum.Com
 
+levi45 Addons Panel UPDATE 31-08-2024
+-------------------------------------------------------------------------
+enigma2-plugin-softcams-oscam-emu-levi45_11822-802_all.ipk
+-------------------------------------------------------------------------
+
+
 levi45 Addons Panel UPDATE 26-08-2024
 -------------------------------------------------------------------------
 enigma2-plugin-softcams-oscam-emu-levi45_11819-802_all.ipk
