@@ -1,49 +1,49 @@
 Satellite-Forum.Com
 
-levi45 Addons Panel UPDATE 04-09-2024
+levi45 Multicam Manager UPDATE 04-09-2024
 -------------------------------------------------------------------------
 enigma2-plugin-softcams-oscam-emu-levi45_11824-802_all.ipk
 enigma2-plugin-softcams-oscam-emu-levi45_11824-802_all.deb
 -------------------------------------------------------------------------
 
-levi45 Addons Panel UPDATE 01-09-2024
+levi45 Multicam Manager UPDATE 01-09-2024
 -------------------------------------------------------------------------
 enigma2-plugin-softcams-oscam-emu-levi45_11823-802_all.ipk
 -------------------------------------------------------------------------
 
-levi45 Addons Panel UPDATE 31-08-2024
+levi45 Multicam Manager UPDATE 31-08-2024
 -------------------------------------------------------------------------
 enigma2-plugin-softcams-oscam-emu-levi45_11822-802_all.ipk
 -------------------------------------------------------------------------
 
 
-levi45 Addons Panel UPDATE 26-08-2024
+levi45 Multicam Manager UPDATE 26-08-2024
 -------------------------------------------------------------------------
 enigma2-plugin-softcams-oscam-emu-levi45_11819-802_all.ipk
 -------------------------------------------------------------------------
 
-levi45 Addons Panel UPDATE 23-08-2024
+levi45 Multicam Manager UPDATE 23-08-2024
 -------------------------------------------------------------------------
 enigma2-plugin-softcams-oscam-emu-levi45_11818-802_all.ipk
 -------------------------------------------------------------------------
 enigma2-plugin-softcams-oscam-emu-levi45_11818-802_all.deb
 -------------------------------------------------------------------------
 
-levi45 Addons Panel UPDATE 30-06-2024
+levi45 Multicam Manager UPDATE 30-06-2024
 -------------------------------------------------------------------------
 enigma2-plugin-softcams-oscam-emu-levi45_11794-802_all.ipk
 -------------------------------------------------------------------------
 enigma2-plugin-softcams-oscam-emu-levi45_11794-802_all.deb
 -------------------------------------------------------------------------
 
-levi45 Addons Panel UPDATE 07-06-2024
+levi45 Multicam Manager UPDATE 07-06-2024
 -------------------------------------------------------------------------
 enigma2-plugin-softcams-oscam-emu-levi45_11790-801_all.ipk
 -------------------------------------------------------------------------
 enigma2-plugin-softcams-oscam-emu-levi45_11790-801_all.deb
 -------------------------------------------------------------------------
 
-levi45 Addons Panel UPDATE 29-05-2024
+levi45 Multicam Manager UPDATE 29-05-2024
 -------------------------------------------------------------------------
 enigma2-plugin-softcams-oscam-icam-emu-py2_11788-801_all.ipk
 enigma2-plugin-softcams-oscam-icam-emu-py3.9_11788-801_all.ipk
@@ -56,7 +56,7 @@ enigma2-plugin-softcams-oscam-icam-emu-py3.10_11788-801_all.deb
 enigma2-plugin-softcams-oscam-icam-emu-py3.21_11788-801_all.deb
 -------------------------------------------------------------------------
 
-levi45 Addons Panel UPDATE 27-05-2024
+levi45 Multicam Manager UPDATE 27-05-2024
 -------------------------------------------------------------------------
 enigma2-plugin-softcams-oscam-icam-emu-py2_11787-801_all.ipk
 enigma2-plugin-softcams-oscam-icam-emu-py3.9_11787-801_all.ipk
@@ -69,7 +69,7 @@ enigma2-plugin-softcams-oscam-icam-emu-py3.10_11787-801_all.deb
 enigma2-plugin-softcams-oscam-icam-emu-py3.21_11787-801_all.deb
 -------------------------------------------------------------------------
 
-levi45 Addons Panel UPDATE 24-05-2024
+levi45 Multicam Manager UPDATE 24-05-2024
 -------------------------------------------------------------------------
 enigma2-plugin-softcams-oscam-icam-emu-py2_11786-801_all.ipk
 enigma2-plugin-softcams-oscam-icam-emu-py3.9_11786-801_all.ipk
@@ -82,7 +82,7 @@ enigma2-plugin-softcams-oscam-icam-emu-py3.10_11786-801_all.deb
 enigma2-plugin-softcams-oscam-icam-emu-py3.21_11786-801_all.deb
 -------------------------------------------------------------------------
 
-levi45 Addons Panel UPDATE 24-05-2024
+levi45 Multicam Manager UPDATE 24-05-2024
 -------------------------------------------------------------------------
 enigma2-plugin-softcams-oscam-icam-emu-py2_11785-801_all.ipk
 enigma2-plugin-softcams-oscam-icam-emu-py3.9_11785-801_all.ipk
