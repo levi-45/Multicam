@@ -1,5 +1,13 @@
 Satellite-Forum.Com
 
+levi45 Multicam Manager UPDATE 08-09-2024
+-------------------------------------------------------------------------
+enigma2-plugin-softcams-oscam-emu-levi45_11825-802_all.ipk
+enigma2-channellist-ciefp-motor-abertis-arm_07-09-2024_all.ipk
+enigma2-channellist-ciefp-motor-abertis-mips_07-09-2024_all.ipk
+enigma2-plugin-softcams-oscam-emu-levi45_11825-802_all.deb
+-------------------------------------------------------------------------
+
 levi45 Multicam Manager UPDATE 04-09-2024
 -------------------------------------------------------------------------
 enigma2-plugin-softcams-oscam-emu-levi45_11824-802_all.ipk
