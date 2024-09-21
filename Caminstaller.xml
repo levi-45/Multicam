@@ -260,8 +260,8 @@
     <plugin name="Ciefp-motor-abertis-arm_07-09-2024_all.ipk">
 			<url>https://raw.githubusercontent.com/levi-45/Multicam/main/Oscam_Icam_Settings/enigma2-channellist-ciefp-motor-abertis-arm_07-09-2024_all.ipk</url>
     </plugin>
-    <plugin name="Gioppygio-motor_19-08-2024_all.ipk">
-			<url>https://raw.githubusercontent.com/levi-45/Multicam/main/Oscam_Icam_Settings/enigma2-channellist-gioppygio-motor_19-08-2024_all.ipk</url>
+    <plugin name="Gioppygio-motor_21-09-2024_all.ipk">
+			<url>https://raw.githubusercontent.com/levi-45/Multicam/main/Oscam_Icam_Settings/enigma2-channellist-gioppygio-motor_21-09-2024_all.ipk</url>
     </plugin>
  </plugins>
 </xml>
