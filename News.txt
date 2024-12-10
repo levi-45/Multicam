@@ -1,8 +1,8 @@
 Satellite-Forum.Com
 
-levi45 Multicam Manager UPDATE 09-12-2024
+levi45 Multicam Manager UPDATE 10-12-2024
 -------------------------------------------------------------------------
-enigma2-plugin-softcams-oscam-emu-levi45_11859-802_all.ipk
-enigma2-plugin-softcams-oscam-emu-levi45_11859-802_all.deb
+enigma2-plugin-softcams-oscam-emu-levi45_11860-802_all.ipk
+enigma2-plugin-softcams-oscam-emu-levi45_11860-802_all.deb
 -------------------------------------------------------------------------
 
