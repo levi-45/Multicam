@@ -12,6 +12,12 @@
 			<url>https://raw.githubusercontent.com/levi-45/Multicam/main/Cams_ipk/All/enigma2-plugin-softcams-ncam_15.0_all.ipk</url>
     </plugin>
  </plugins>
+<!-- #########All_CCcam########### -->
+	<plugins cont="CCcam For All Arm/Mips ipk">
+    <plugin name="CCcam-levi45_232_all.ipk">
+			<url>https://raw.githubusercontent.com/levi-45/Multicam/main/Cams_ipk/All/enigma2-plugin-softcams-cccam-levi45_232_all.ipk</url>
+    </plugin>
+ </plugins>
 <!-- #########Arm_Cam########### -->
 	<plugins cont="Arm Cam ipk">
     <plugin name="Cccam-arm_2.3.2_all.ipk">
