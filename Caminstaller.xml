@@ -308,11 +308,11 @@
 	</plugins>
 <!-- #########Oscam_Icam_Settings########### -->
 	<plugins cont="Oscam Icam Settings">
-    <plugin name="Vhannibal-motor-icam-levi45-mod_29-03-2025_all.ipk">
-			<url>https://raw.githubusercontent.com/levi-45/Multicam/main/Oscam_Icam_Settings/enigma2-channellist-vhannibal-motor-icam-levi45-mod_29-03-2025_all.ipk</url>
+    <plugin name="Vhannibal-motor-icam-levi45-mod_18-08-2025_all.ipk">
+			<url>https://raw.githubusercontent.com/levi-45/Multicam/main/Oscam_Icam_Settings/enigma2-channellist-vhannibal-motor-icam-levi45-mod_18-08-2025_all.ipk</url>
     </plugin>
-    <plugin name="Ciefp-vod-motor_05-10-2024_all.ipk">
-			<url>https://raw.githubusercontent.com/levi-45/Multicam/main/Oscam_Icam_Settings/enigma2-channellist-ciefp-vod-motor_05-10-2024_all.ipk</url>
+    <plugin name="Ciefp-vod-motor_18-08-2025_all.ipk">
+			<url>https://raw.githubusercontent.com/levi-45/Multicam/main/Oscam_Icam_Settings/enigma2-channellist-ciefp-vod-motor_18-08-2025_all.ipk</url>
     </plugin>
     <plugin name="Ciefp-motor-abertis-mips_07-09-2024_all.ipk">
 			<url>https://raw.githubusercontent.com/levi-45/Multicam/main/Oscam_Icam_Settings/enigma2-channellist-ciefp-motor-abertis-mips_07-09-2024_all.ipk</url>
@@ -320,8 +320,8 @@
     <plugin name="Ciefp-motor-abertis-arm_07-09-2024_all.ipk">
 			<url>https://raw.githubusercontent.com/levi-45/Multicam/main/Oscam_Icam_Settings/enigma2-channellist-ciefp-motor-abertis-arm_07-09-2024_all.ipk</url>
     </plugin>
-    <plugin name="Gioppygio-motor_21-09-2024_all.ipk">
-			<url>https://raw.githubusercontent.com/levi-45/Multicam/main/Oscam_Icam_Settings/enigma2-channellist-gioppygio-motor_21-09-2024_all.ipk</url>
+    <plugin name="Gioppygio-motor_18-08-2025_all.ipk">
+			<url>https://raw.githubusercontent.com/levi-45/Multicam/main/Oscam_Icam_Settings/enigma2-channellist-gioppygio-motor_18-08-2025_all.ipk</url>
     </plugin>
  </plugins>
 </xml>
