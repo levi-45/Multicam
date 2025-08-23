@@ -8,12 +8,6 @@
     <plugin name="Oscam-emu-levi45_11885-802_all.ipk">
 			<url>https://raw.githubusercontent.com/levi-45/Multicam/main/Cams_ipk/All/enigma2-plugin-softcams-oscam-emu-levi45_11885-802_all.ipk</url>
     </plugin>
-    <plugin name="Oscam-emu-Youchie_11886-802_all.ipk">
-			<url>https://raw.githubusercontent.com/levi-45/Multicam/main/Cams_ipk/All/enigma2-plugin-softcams-oscam_11886-emu-r802_all.ipk</url>
-    </plugin>
-    <plugin name="Oscam-emu-Youchie_11884-802_all.ipk">
-			<url>https://raw.githubusercontent.com/levi-45/Multicam/main/Cams_ipk/All/enigma2-plugin-softcams-oscam_11884-emu-r802_all.ipk</url>
-    </plugin>
  </plugins>
 <!-- #########All_NCam########### -->
 	<plugins cont="Ncam For All Arm/Mips Py2/Py3 ipk">
@@ -160,12 +154,6 @@
     </plugin>
     <plugin name="Oscam-emu-levi45_11885-802_all.deb">
 			<url>https://raw.githubusercontent.com/levi-45/Multicam/main/Cams_deb/All/enigma2-plugin-softcams-oscam-emu-levi45_11885-802_all.deb</url>
-    </plugin>
-    <plugin name="Oscam-emu-Youchie_11886-802_all.deb">
-			<url>https://raw.githubusercontent.com/levi-45/Multicam/main/Cams_deb/All/enigma2-plugin-softcams-oscam-osdreambox-11886-emu-r802-all.deb</url>
-    </plugin>
-    <plugin name="Oscam-emu-Youchie_11884-802_all.deb">
-			<url>https://raw.githubusercontent.com/levi-45/Multicam/main/Cams_deb/All/enigma2-plugin-softcams-oscam-osdreambox-11884-emu-r802-all.deb</url>
     </plugin>
  </plugins>
  <!-- #########All_NCam########### -->
